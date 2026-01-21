@@ -1,2 +1,4 @@
 Test paywright Premier exemple de github
-connexion un site
+1.test connexion verification titre et capture d écran
+2.test connexion et verification de la présence  d un lien plus capture d'écran et affiché que le test est passant
+
